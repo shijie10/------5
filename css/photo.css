@@ -1,0 +1,48 @@
+/* CSS Document */
+*{padding:0;margin:0;
+	}
+	body{
+		padding:100px;
+		}
+	
+ul{
+	list-style-type:none;
+	
+	}
+	
+	li{
+		float:left;
+		margin:4px 3px 0;
+		
+		}
+		.a1{
+			width:482px;
+			border:1px solid #ADA7A7;
+			height:170px;
+			}
+		.a2{
+			width:482px;
+			background:#D0B1B1;
+			}
+		.a2 span{
+			background:#F9910C;
+			margin:0 85px 0 85px;
+			padding:0 20px;
+			cursor:pointer;
+			
+			}
+			.a3{
+				width:470px;
+				overflow:hidden;
+				position:absolute;
+				height:140px;
+				margin-top:1px;
+				padding-left:1px;
+				
+			
+				}
+				.a4{
+					width:2400px;
+					position:absolute;
+					left:5px;
+					}

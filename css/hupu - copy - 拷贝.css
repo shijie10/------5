@@ -1,0 +1,55 @@
+/* CSS Document */
+*{
+	padding:0;
+	margin:0;
+	}
+	body{
+	padding:100px;
+	}
+    th{
+		border-bottom:1px solid #7F7777;
+		
+		padding:3px 10px;
+		text-align:left;
+		}
+	table{
+		border-collapse:collapse;
+		width:350px;
+		clear:both;
+		}
+	td{
+		padding:3px 10px;
+		}
+	.odd{
+		background:#F0EFEF;
+		}
+	.even{
+		background:#E8DDDE;
+		}
+	 ul{
+		  list-style-type:none;
+		  }
+	li{
+		
+	 float:left;
+	 margin:0 5px;
+	 padding:0 3px;
+	 cursor:pointer;	
+		}
+	#twoo{
+		width:350px;
+		height:25px;
+		line-height:25px;
+		
+
+	   background:#D1CCCC;
+		}
+		.head{
+			background:#8A7677;
+			}
+	
+
+#twoo .twoo_1 {
+	
+	padding-left:7px;
+}
